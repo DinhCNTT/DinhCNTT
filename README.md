@@ -28,27 +28,27 @@
 
 ### ⚙️ Languages & Projects Overview
 <p align="center">
-  <a href="https://github.com/Dynnex">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dynnex&langs_count=10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=ffffff&icon_color=00ffff" alt="Top Languages" />
+  <a href="https://github.com/DinhCNTT">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinhCNTT&langs_count=10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=ffffff&icon_color=00ffff" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dynnex&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dynnex&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DinhCNTT&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DinhCNTT&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dynnex&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dynnex&theme=tokyonight&utcOffset=7" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DinhCNTT&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DinhCNTT&theme=tokyonight&utcOffset=7" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dynnex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff&text_color=ffffff" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dynnex&theme=tokyonight&hide_border=true&background=0d1117&fire=00ffff&ring=00ffff" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DinhCNTT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff&text_color=ffffff" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DinhCNTT&theme=tokyonight&hide_border=true&background=0d1117&fire=00ffff&ring=00ffff" height="180"/>
 </p>
 
 ---
@@ -64,7 +64,7 @@
 
 ### 💫 Fun Touch
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dynnex&label=PROFILE+VIEWS&color=00ffff&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=DinhCNTT&label=PROFILE+VIEWS&color=00ffff&style=flat-square" />
 </p>
 
 <p align="center">
