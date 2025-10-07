@@ -14,39 +14,88 @@
 
 ## 🎯 **About Me**
 
+<div align="center">
+
 <table>
 <tr>
-<td>
+<td align="center" width="50%">
 
-**👨‍💻 Role:** Software Engineer & Fullstack Developer
+### 👨‍💻 **Professional**
 
-**📍 Location:** Vietnam 🇻🇳
+🎯 **Software Engineer & Fullstack Developer**
 
-**💻 Languages:** JavaScript • TypeScript • C# • SQL
+📍 **Vietnam** 🇻🇳
 
-**⚡ Frontend:**
-- Frameworks: React, Next.js
-- Styling: TailwindCSS, Bootstrap, CSS3
-- State Management: Redux, Context API, Zustand
+💻 **JavaScript • TypeScript • C# • SQL**
 
-**🚀 Backend:**
-- Node.js, Express.js, Socket.io
-- ASP.NET Core, Entity Framework, SignalR
-- SQL Server, MySQL, MongoDB
+</td>
+<td align="center" width="50%">
 
-**🛠️ DevOps:** Docker • Azure • Git • Postman
+### ⚡ **Current Focus**
 
-**🎯 Current Focus:** Realtime Communication & System Design
+🚀 **Realtime Communication**
 
-**🏗️ Architecture:** Clean Architecture • Microservices • RESTful API • MVC
+🏗️ **System Design**
 
-**💡 Challenge:** Building something impactful every single day
-
-**☕ Fun Fact:** My code runs smoother after my 3rd cup of coffee
+💡 **Clean Architecture**
 
 </td>
 </tr>
 </table>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🎨 **Frontend**
+
+⚛️ React • Next.js
+
+🎨 TailwindCSS • Bootstrap
+
+📦 Redux • Context API • Zustand
+
+</td>
+<td align="center" width="33%">
+
+### 🚀 **Backend**
+
+🟢 Node.js • Express.js • Socket.io
+
+🔷 ASP.NET Core • Entity Framework
+
+🗄️ SQL Server • MySQL • MongoDB
+
+</td>
+<td align="center" width="33%">
+
+### 🛠️ **DevOps & Tools**
+
+🐳 Docker • Azure
+
+📮 Git • Postman
+
+🏛️ Microservices • RESTful API
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center">
+
+### ☕ **Fun Fact**
+
+*"My code runs smoother after my 3rd cup of coffee"*
+
+**💪 Building something impactful every single day**
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
