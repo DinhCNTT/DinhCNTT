@@ -14,30 +14,39 @@
 
 ## 🎯 **About Me**
 
-```javascript
-const dynnex = {
-    role: "Software Engineer & Fullstack Developer",
-    location: "Vietnam 🇻🇳",
-    code: ["JavaScript", "TypeScript", "C#", "SQL"],
-    technologies: {
-        frontend: {
-            frameworks: ["React", "Next.js"],
-            styling: ["TailwindCSS", "Bootstrap", "CSS3"],
-            state: ["Redux", "Context API", "Zustand"]
-        },
-        backend: {
-            js: ["Node.js", "Express.js", "Socket.io"],
-            dotnet: ["ASP.NET Core", "Entity Framework", "SignalR"],
-            databases: ["SQL Server", "MySQL", "MongoDB"]
-        },
-        devOps: ["Docker", "Azure", "Git", "Postman"],
-        currentFocus: "Realtime Communication & System Design",
-        funFact: "My code runs smoother after my 3rd cup of coffee ☕"
-    },
-    architecture: ["Clean Architecture", "Microservices", "RESTful API", "MVC"],
-    challenge: "Building something impactful every single day"
-};
-```
+<table>
+<tr>
+<td>
+
+**👨‍💻 Role:** Software Engineer & Fullstack Developer
+
+**📍 Location:** Vietnam 🇻🇳
+
+**💻 Languages:** JavaScript • TypeScript • C# • SQL
+
+**⚡ Frontend:**
+- Frameworks: React, Next.js
+- Styling: TailwindCSS, Bootstrap, CSS3
+- State Management: Redux, Context API, Zustand
+
+**🚀 Backend:**
+- Node.js, Express.js, Socket.io
+- ASP.NET Core, Entity Framework, SignalR
+- SQL Server, MySQL, MongoDB
+
+**🛠️ DevOps:** Docker • Azure • Git • Postman
+
+**🎯 Current Focus:** Realtime Communication & System Design
+
+**🏗️ Architecture:** Clean Architecture • Microservices • RESTful API • MVC
+
+**💡 Challenge:** Building something impactful every single day
+
+**☕ Fun Fact:** My code runs smoother after my 3rd cup of coffee
+
+</td>
+</tr>
+</table>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -110,10 +119,12 @@ const dynnex = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🏆 **GitHub Trophies**
+## 🏆 **GitHub Achievements**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DinhCNTT&theme=algolia&no-frame=true&no-bg=false&row=1&column=7" alt="GitHub Trophies"/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DinhCNTT&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 <!-- Animated Divider -->
