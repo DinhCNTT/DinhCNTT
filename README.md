@@ -14,7 +14,7 @@
 
 ## 🎯 **About Me**
 
-```typescript
+```javascript
 const dynnex = {
     role: "Software Engineer & Fullstack Developer",
     location: "Vietnam 🇻🇳",
@@ -113,7 +113,7 @@ const dynnex = {
 ## 🏆 **GitHub Trophies**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DinhCNTT&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=DinhCNTT&theme=algolia&no-frame=true&no-bg=false&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 <!-- Animated Divider -->
