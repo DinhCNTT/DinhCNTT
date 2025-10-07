@@ -119,11 +119,14 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🏆 **GitHub Achievements**
+## 🏆 **Achievements**
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DinhCNTT&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+🌟 **10+ Projects Completed**  
+⚡ **500+ Commits This Year**  
+🚀 **5+ Tech Stacks Mastered**  
+💡 **Always Learning & Growing**
 
 </div>
 
