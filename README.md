@@ -81,20 +81,6 @@
 </tr>
 </table>
 
-<table>
-<tr>
-<td align="center">
-
-### ☕ **Fun Fact**
-
-*"My code runs smoother after my 3rd cup of coffee"*
-
-**💪 Building something impactful every single day**
-
-</td>
-</tr>
-</table>
-
 </div>
 
 <!-- Animated Divider -->
